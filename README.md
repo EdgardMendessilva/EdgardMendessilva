@@ -1,6 +1,7 @@
 # Edgard Mendes
 
 **QA Lead | Quality Engineering | Meios de Pagamento (ISO 8583)**
+
 São Paulo, SP · [LinkedIn](https://www.linkedin.com/in/edgard-mendes-27b68957)
 
 Mais de 5 anos garantindo qualidade em sistemas críticos de meios de pagamento e Mobile Banking: autorização de transações (ISO 8583, Visa e Mastercard), homologação de cartões e automação de testes. Já liderei times de QA e gosto de transformar teste manual repetitivo em automação confiável, rodando em CI/CD.
